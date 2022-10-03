@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Привет, меня зовут Михаил.
 
-<!--
-**mmishurenkov/mmishurenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/> ![](https://komarev.com/ghpvc/?username=mmishurenkov) <br/>
 
-Here are some ideas to get you started:
+## Я начинающий IOS-разработчик
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⟜ ‼ Буду рад любому сотрудничеству и дельному совету
+
+### Языки и инструменты:
+
+<img align="left" alt="Xcode" width="58px" src= img/xcode.png />
+<img align="left" alt="Swift" width="52px" src= img/swift.png />
+
+<img align="left" alt="Git" width="70px" src= img/git.png />
+<img align="left" alt="macOS" width="52px" src= img/macos.png />
