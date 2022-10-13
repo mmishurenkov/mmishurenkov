@@ -10,6 +10,7 @@
 
 <img align="left" alt="Xcode" width="58px" src= img/xcode.png />
 <img align="left" alt="Swift" width="52px" src= img/swift.png />
-<img align="left" alt="UIkit" width="100px" src= img/uikit.png />
+<img align="left" alt="SwiftUI" width="52px" src= img/swiftui.png />
 <img align="left" alt="Git" width="70px" src= img/git.png />
 <img align="left" alt="macOS" width="52px" src= img/macos.png />
+<img align="left" alt="UIkit" width="100px" src= img/uikit.png />
